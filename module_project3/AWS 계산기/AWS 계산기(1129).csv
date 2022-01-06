@@ -1,0 +1,15 @@
+Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+My Estimate,Asia Pacific (Seoul),그룹웨어,Amazon EC2,0,125.52,1506.24,USD,"Operating system (Linux), Quantity (4), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage amount (30 GB), Instance type (r6g.medium)"
+My Estimate,Asia Pacific (Seoul),ERP,Amazon EC2,0,94.14,1129.68,USD,"Operating system (Linux), Quantity (3), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage amount (30 GB), Instance type (r6g.medium)"
+My Estimate,Asia Pacific (Seoul),CRM,Amazon EC2,0,94.14,1129.68,USD,"Operating system (Linux), Quantity (3), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage amount (30 GB), Instance type (r6g.medium)"
+My Estimate,Asia Pacific (Seoul),메일 서버,Amazon EC2,0,62.76,753.12,USD,"Operating system (Linux), Quantity (2), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage amount (30 GB), Instance type (r6g.medium)"
+My Estimate,Asia Pacific (Seoul),groupAPI,Amazon EC2,0,230.66,2767.92,USD,"Operating system (Linux), Quantity (2), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage amount (30 GB), Instance type (r6g.xlarge)"
+My Estimate,Asia Pacific (Seoul),ERPAPI,Amazon EC2,0,454.48,5453.76,USD,"Operating system (Linux), Quantity (2), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage amount (30 GB), Instance type (r6g.2xlarge)"
+My Estimate,Asia Pacific (Seoul),CRMAPI,Amazon EC2,0,59.41,712.92,USD,"Operating system (Linux), Quantity (1), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage amount (30 GB), Instance type (r6g.large)"
+My Estimate,Asia Pacific (Seoul),메일 API,Amazon EC2,0,451.06,5412.72,USD,"Operating system (Linux), Quantity (1), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage amount (30 GB), Instance type (r6g.4xlarge)"
+My Estimate,Asia Pacific (Seoul),네트워크,Amazon Virtual Private Cloud (VPC),0,1290.114,15481.37,USD,"DT Inbound: Internet (10 TB per month), DT Outbound: Internet (10 TB per month), DT Intra-Region: (0 TB per month), Data transfer cost (1290.114)"
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Acknowledgement,,,,,,,,
+"* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services.",,,,,,,,

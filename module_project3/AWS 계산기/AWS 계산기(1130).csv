@@ -1,0 +1,13 @@
+Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+My Estimate,Asia Pacific (Seoul),네트워크,Amazon EC2,0,251.03,3012.36,USD,"Operating system (Linux), Quantity (8), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage amount (30 GB), Instance type (r6g.medium)"
+My Estimate,Asia Pacific (Seoul),네트워크,Amazon Virtual Private Cloud (VPC),0,2539.394,30472.73,USD,"DT Inbound: Internet (10 TB per month), DT Outbound: Internet (20 TB per month), DT Intra-Region: (0 TB per month), Data transfer cost (2539.394)"
+My Estimate,Asia Pacific (Seoul),ALB,Application Load Balancer,0,18.3,219.6,USD,Number of Application Load Balancers (1)
+My Estimate,Asia Pacific (Seoul),NLB,Network Load Balancer,0,24.64,295.68,USD,"Number of Network Load Balancers (1), Average number of new TCP connections (1500 per second), Processed bytes per NLB for TCP (0 GB per hour), Average TCP connection duration (0 minutes), Processed bytes per NLB for UDP (0 GB per hour), Average number of new UDP Flows (0 per second), Average UDP Flow duration (0 seconds), Processed bytes per NLB for TLS (0 GB per hour), Average number of new TLS connections (0 per second), Average TLS connection duration (0 seconds)"
+My Estimate,Asia Pacific (Seoul),Container,AWS Fargate,0,0,0,USD,"Operating system (Linux), Average duration (1 minutes), Amount of ephemeral storage allocated for Amazon ECS (30 GB), Number of tasks or pods (1500 per day)"
+My Estimate,Asia Pacific (Seoul),게임 데이터 DB,Amazon RDS for MariaDB,0,6155.04,73860.48,USD,"Storage volume (General Purpose SSD (gp2)), Storage amount (10240 GB per month), Quantity (1), Instance type (db.r5.4xlarge), Utilization (On-Demand only) (100 %Utilized/Month), Deployment selection (Multi-AZ), Pricing strategy (OnDemand)"
+My Estimate,Asia Pacific (Seoul),웹사이트 운영 DB,Amazon RDS for MySQL,0,1027.224,12326.69,USD,"Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (1024 GB), Quantity (1), Instance type (db.r6g.xlarge), Utilization (On-Demand only) (100 %Utilized/Month), Deployment option (Multi-AZ), Pricing strategy (OnDemand)"
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Acknowledgement,,,,,,,,
+"* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services.",,,,,,,,

@@ -1,0 +1,12 @@
+﻿Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+My Estimate,Asia Pacific (Seoul),DB,Amazon Virtual Private Cloud (VPC),0,0,0.00,USD,"DT Inbound: Not selected (0 TB per month), DT Outbound: Not selected (0 TB per month), DT Intra-Region: (0 TB per month), Data transfer cost (0)"
+My Estimate,Asia Pacific (Seoul),WAS,Amazon Virtual Private Cloud (VPC),0,0,0.00,USD,"DT Inbound: Not selected (0 TB per month), DT Outbound: Not selected (0 TB per month), DT Intra-Region: (0 TB per month), Data transfer cost (0)"
+My Estimate,Asia Pacific (Seoul),Web,Amazon Virtual Private Cloud (VPC),0,1290.114,15481.37,USD,"DT Inbound: Internet (2 TB per month), DT Outbound: Internet (10 TB per month), DT Intra-Region: (0 TB per month), Data transfer cost (1290.114)"
+My Estimate,Asia Pacific (Seoul),WAS,Amazon EC2,0,5680.95,68171.40,USD,"Operating system (Linux), Quantity (25), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage amount (30 GB), Instance type (r6g.2xlarge)"
+My Estimate,Asia Pacific (Seoul),Web,Amazon EC2,0,2006.95,24083.40,USD,"Operating system (Linux), Quantity (50), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage amount (30 GB), Instance type (t4g.large)"
+My Estimate,Asia Pacific (Seoul),,Amazon Aurora MySQL-Compatible,0,2444.41,29332.92,USD,"Change records per statement (0.38), Nodes (1), Instance Type (db.r6g.4xlarge), Instance Family (Memory optimized), Pricing Model (OnDemand), Storage amount (5 TB)"
+
+
+
+Acknowledgement
+"* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."

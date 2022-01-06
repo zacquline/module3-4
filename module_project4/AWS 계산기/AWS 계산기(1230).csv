@@ -1,0 +1,13 @@
+﻿Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+My Estimate,US West (Oregon),Web,Amazon Virtual Private Cloud (VPC),0,921.6,11059.20,USD,"DT Inbound: Internet (2 TB per month), DT Outbound: Internet (10 TB per month), DT Intra-Region: (0 TB per month), Data transfer cost (921.6)"
+My Estimate,US West (Oregon),WAS,Amazon Virtual Private Cloud (VPC),0,0,0.00,USD,"DT Inbound: Internet (0 TB per month), DT Outbound: Internet (0 TB per month), DT Intra-Region: (0 TB per month), Data transfer cost (0)"
+My Estimate,US West (Oregon),DB,Amazon Virtual Private Cloud (VPC),0,0,0.00,USD,"DT Inbound: Internet (0 TB per month), DT Outbound: Internet (0 TB per month), DT Intra-Region: (0 TB per month), Data transfer cost (0)"
+My Estimate,US West (Oregon),Web,Amazon EC2,0,469.6094,5635.31,USD,"Operating system (Windows Server), Storage amount (30 GB), DT Inbound: Internet (0 TB per month), DT Outbound: Internet (0 TB per month), DT Intra-Region: (0 TB per month), Workload (Monthly, Baseline: 1, Peak: 50, Duration of peak: 3 Day 0 Hr 0 Min), Snapshot Frequency (2x Daily), Amount changed per snapshot (3 GB), Advance EC2 instance (t3a.large), Pricing strategy (EC2 Instance Savings Plans 1 Year  None upfront)"
+My Estimate,US West (Oregon),,Amazon EC2,0,912.4395999999999,10949.28,USD,"Operating system (Linux), Storage amount (30 GB), DT Inbound: Internet (0 TB per month), DT Outbound: Internet (0 TB per month), DT Intra-Region: (0 TB per month), Workload (Monthly, Baseline: 1, Peak: 25, Duration of peak: 3 Day 0 Hr 0 Min), Snapshot Frequency (2x Daily), Amount changed per snapshot (3 GB), Advance EC2 instance (r6g.2xlarge), Pricing strategy (EC2 Instance Savings Plans 1 Year  None upfront)"
+My Estimate,US West (Oregon),DB,Amazon Aurora MySQL-Compatible,0,2028.01,24336.12,USD,"Change records per statement (0.38), Nodes (1), Instance Type (db.r6g.4xlarge), Instance Family (Memory optimized), Pricing Model (OnDemand), Storage amount (5 TB)"
+My Estimate,US West (Oregon),LB,Application Load Balancer,0,220.83,2649.96,USD,Number of Application Load Balancers (1)
+
+
+
+Acknowledgement
+"* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."

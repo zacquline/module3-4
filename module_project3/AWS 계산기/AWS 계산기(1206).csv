@@ -1,0 +1,12 @@
+Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+My Estimate,Asia Pacific (Seoul),,Amazon RDS for Oracle,0,36369.6,436435.2,USD,"Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (10 TB), Number of RDS for Oracle instances (6), Instance type (db.r5.4xlarge), Utilization (On-Demand only) (100 %Utilized/Month), Deployment option (Multi-AZ), License (Bring your own license), Database edition (Enterprise), Pricing strategy (OnDemand)"
+My Estimate,Asia Pacific (Seoul),Net,Amazon Virtual Private Cloud (VPC),0,2539.394,30472.73,USD,"DT Inbound: Internet (10 TB per month), DT Outbound: Internet (20 TB per month), DT Intra-Region: (0 TB per month), Data transfer cost (2539.394)"
+My Estimate,Asia Pacific (Seoul),Oracle,Amazon EC2,0,3229.99,38759.88,USD,"Operating system (Linux), Quantity (4), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage amount (5 TB), Instance type (r6g.2xlarge)"
+My Estimate,Asia Pacific (Seoul),API,Amazon EC2,0,11361.9,136342.8,USD,"Operating system (Linux), Quantity (50), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage amount (30 GB), Instance type (r6g.2xlarge)"
+My Estimate,Asia Pacific (Seoul),WAS,Amazon EC2,0,11361.9,136342.8,USD,"Operating system (Linux), Quantity (50), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage amount (30 GB), Instance type (r6g.2xlarge)"
+My Estimate,Asia Pacific (Seoul),Web,Amazon EC2,0,3612.51,43350.12,USD,"Operating system (Linux), Quantity (90), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage amount (30 GB), Instance type (t4g.large)"
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Acknowledgement,,,,,,,,
+"* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services.",,,,,,,,

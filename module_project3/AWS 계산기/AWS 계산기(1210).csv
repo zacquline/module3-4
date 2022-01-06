@@ -1,0 +1,10 @@
+﻿Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+My Estimate,Asia Pacific (Seoul),X,Amazon Virtual Private Cloud (VPC),0,5038.08,60456.96,USD,"DT Inbound: Internet (20 TB per month), DT Outbound: Internet (40 TB per month), DT Intra-Region: (0 TB per month), Data transfer cost (5038.08)"
+My Estimate,Asia Pacific (Seoul),Web,AWS Fargate,0,3.55,42.60,USD,"Operating system (Linux), Average duration (1 minutes), Amount of ephemeral storage allocated for Amazon ECS (20 GB), Amount of memory allocated (16 GB), Number of tasks or pods (40 per day)"
+My Estimate,Asia Pacific (Seoul),WAS,AWS Fargate,0,3.44,41.28,USD,"Operating system (Linux), Average duration (1 minutes), Amount of ephemeral storage allocated for Amazon ECS (20 GB), Number of tasks or pods (20 per day), Amount of memory allocated (30 GB)"
+My Estimate,Asia Pacific (Seoul),X,Amazon Elastic Container Registry,0,0.1,1.20,USD,"DT Inbound: Internet (0 TB per month), DT Outbound: Internet (0 TB per month), Data transfer cost (0), Amount of data stored (1 GB per month)"
+
+
+
+Acknowledgement
+"* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."
